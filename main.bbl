@@ -1,0 +1,115 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{cerda2002diseno}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CGH}{%
+         family={Cerda\bibnamedelima G.},
+         familyi={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+         given={Hugo},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {es}%
+    }
+    \list{publisher}{1}{%
+      {McGraw-Hill}%
+    }
+    \strng{namehash}{CGH1}
+    \strng{fullhash}{CGH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{isbn}{9789701005484}
+    \field{title}{Diseño y análisis estadístico de experimentos}
+    \field{year}{2002}
+  \endentry
+
+  \entry{montgomery2019diseno}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MDC}{%
+         family={Montgomery},
+         familyi={M\bibinitperiod},
+         given={Douglas\bibnamedelima C.},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {es}%
+    }
+    \list{publisher}{1}{%
+      {Limusa}%
+    }
+    \strng{namehash}{MDC1}
+    \strng{fullhash}{MDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{edition}{9}
+    \field{isbn}{9786070504566}
+    \field{title}{Diseño y análisis de experimentos}
+    \field{year}{2019}
+  \endentry
+
+  \entry{nieto2021habitos}{article}{}
+    \name{author}{3}{}{%
+      {{hash=NOD}{%
+         family={Nieto\bibnamedelima Ortiz},
+         familyi={N\bibinitperiod\bibinitdelim O\bibinitperiod},
+         given={Diana},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=NMI}{%
+         family={Nieto\bibnamedelima Mendoza},
+         familyi={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={Iveth},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=MAM}{%
+         family={Mejía\bibnamedelima Amézquita},
+         familyi={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+         given={Mónica},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {es}%
+    }
+    \strng{namehash}{NODNMIMAM1}
+    \strng{fullhash}{NODNMIMAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{number}{2}
+    \field{title}{Hábitos alimentarios e índice de masa corporal en
+  estudiantes de la Universidad del Atlántico, Barranquilla: un estudio
+  descriptivo-transversal}
+    \verb{url}
+    \verb https://revistas.udca.edu.co/index.php/rdafd/article/view/1498
+    \endverb
+    \field{volume}{7}
+    \field{journaltitle}{Revista Digital: Actividad Física y Deporte}
+    \field{year}{2021}
+  \endentry
+\enddatalist
+\endinput
